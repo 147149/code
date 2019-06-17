@@ -1,0 +1,13 @@
+/.classpath
+/.project
+/LifeGame.class
+/World.class
+/WorldGUI$ArrowActionListener.class
+/WorldGUI$GunActionListener.class
+/WorldGUI$KuaiActionListener.class
+/WorldGUI$ManActionListener.class
+/WorldGUI$ShuffleActionListener.class
+/WorldGUI$SquareActionListener.class
+/WorldGUI$ZhongActionListener.class
+/WorldGUI.class
+/WorldPanel.class
